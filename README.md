@@ -19,6 +19,6 @@ This device requires power by USB-C male cable. Order this adaptor, for example,
 
 ## 300 - Building Our Application
 
-When powered up, find it in your WiFi networks list and coonect to it. Next open the web interface to change any settings and/or post messages to the device. See [Initial Setup](https://simpleavr.github.io/s14clock/#initial-setup)
+When powered up, the LED will display its Network ID ("ESP-*******"), find the matching Network ID in your WiFi networks list and coonect to it. Next open the web interface to change any settings and/or post messages to the device. See [Initial Setup](https://simpleavr.github.io/s14clock/#initial-setup)
 
 ## 400 - Conclusion
