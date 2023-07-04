@@ -33,4 +33,8 @@ Enter your home network WIFI credentials and hit “Apply” button.
 
 Your S14Clock should connect to your home network and will start to work after showing it’s IP address briefly. You may need to reset the S14Clock via the bottom hardware reset button.
 
+The new IPof the LED Clock is now: 192.168.68.113 (as shown briefly on its display when starting up the LED Clock).
+
+You can from now on browse to this new IP address to see the LED Clock web page: http://192.168.68.113
+
 ## 400 - Conclusion
