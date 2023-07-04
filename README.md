@@ -39,4 +39,8 @@ The new IPof the LED Clock is now: 192.168.68.113 (as shown briefly on its displ
 
 You can from now on browse to this new IP address to see the LED Clock web page: http://192.168.68.113
 
+**Configuration**
+
+To adjust the timemzone to Amsterdam, enter "2" in the textbox for Time Zone (meaning UPC time plus 2), and click "Save Configuration". The time on the LED Clock will from now on show the time as it is in Amsterdam.
+
 ## 400 - Conclusion
