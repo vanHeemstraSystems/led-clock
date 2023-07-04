@@ -31,6 +31,8 @@ Choose from the “3-bar” menu (top right), when in mobile screen size, “Con
 
 Enter your home network WIFI credentials and hit “Apply” button.
 
+**WARNING**: The LED Clock will from this instance on no longer show in the list of WiFi Networks, which is perfectly fine. 
+
 Your S14Clock should connect to your home network and will start to work after showing it’s IP address briefly. You may need to reset the S14Clock via the bottom hardware reset button.
 
 The new IPof the LED Clock is now: 192.168.68.113 (as shown briefly on its display when starting up the LED Clock).
