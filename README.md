@@ -21,7 +21,7 @@ This device requires power by USB-C male cable. Order this adaptor, for example,
 
 See also the video at https://www.youtube.com/watch?v=q_kRyNXgdq0
 
-When powered up, the LED will display its Network ID ("ESP-*******"), find the matching Network ID in your WiFi networks list and coonect to it. When prompted enter the password (connect with password “12345678”.). 
+When powered up, the LED will display its Network ID ("ESP-*******"), find the matching Network ID in your WiFi networks list and connect to it. When prompted enter the password (connect with password “12345678”.). 
 
 Next, open the web interface (http://172.217.28.1) to change any settings and/or post messages to the device. See [Initial Setup](https://simpleavr.github.io/s14clock/#initial-setup)
 
